@@ -1,6 +1,6 @@
 # ========== Bigger Is Greater ==========
 # link problem:
-# https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=false
+# https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=false
 
 '''
 cara kerja:
